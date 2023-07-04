@@ -6,6 +6,7 @@ function App() {
   return (
     <div className="App">
         <h1>Puppies</h1>
+        <h2>Just a cute website.</h2>
         <p>This is my example application for Jenkins project demo. Demonstarting GitHub-Jenkins-Nexus integration.</p>
         <img src={dog1} className="App-logo" alt="logo" />
         <img src={dog2} className="App-logo" alt="logo" />
